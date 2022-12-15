@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: trustcode/docker-odoo-base:14.0
+          tags: ndssistemas/docker-odoo-base:14.0
